@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Hit" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Hit" enableFreeSpin="Y" clientversion="1.0" gameId="300-2131-0" />
+	<GameClient name="Hit" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Hit" enableFreeSpin="Y" clientversion="1.0" gameId="300-2131-0" />
+	<GameClient name="Hit" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Hit" enableFreeSpin="Y" clientversion="1.0" gameId="300-2131-0" />
+</ClientConfig>
